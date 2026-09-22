@@ -1,2 +1,67 @@
 # Index.html
-My first Github repository for AppDev
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Personal Profile Page</title>
+  <style>
+      h3 {
+        text-align:center;
+      }
+
+      .box {
+        width: 200px;
+        padding: 20px;
+        border: 2px solid black;
+        text-align: center;
+        margin: 50px;
+        display: inline-block;
+        
+  </style>
+</head>
+ <body> 
+  <h1>Jayvie Negru</h1>
+  <h2>Aspiring IT Professional</h2>
+  <h2>My name is Jhayvie, and I am an Information Technology student. I am interested in computers, technology, and software development. I enjoy learning new skills, especially in programming, web development, and troubleshooting technical problems. </h2>
+  <h3>About Me</h3>
+ <lu>
+  <li>&#183;Pass the Exam 'till Finals</li>
+  <li>&#183;Master the Fundamentals of Figma</li>
+  <li>&#183;Get High Grades</li>
+ </lu>
+  <h1>Thursday</h1>
+  <div class="box">
+        <h2>WebProg</h2>
+        <p>11a.m - 2p.m</p>
+  </div>
+  <div class="box">
+        <h2>Contemporary World</h2>
+        <p>2p.m - 4p.m</p>
+  </div>
+  <h1>Friday</h1>
+  <div class="box">
+        <h2>CAPSTONE</h2>
+        <p>2p.m - 5p.m</p>
+  </div>
+  <h1>Saturday</h1>
+  <div class="box">
+        <h2>Arts & Humanities</h2>
+        <p>12p.m - 2p.m</p>
+  </div>
+  <div class="box">
+        <h2>DATABASE</h2>
+        <p>2p.m - 5p.m</p>
+  </div>
+  <div class="box">
+        <h2>App Development</h2>
+        <p>5p.m - 8p.m</p>
+   </div> 
+
+   <a href="https://www.facebook.com/"
+    >Go to Facebook
+    </a>   
+
+</body>
+</html>
+  </h1>
+</body>
+</html>
